@@ -1,6 +1,6 @@
 <img src="https://github.com/mw30p/verseB_pie_xtoearn_json_api-kr/blob/main/images/PiE.jpg">
 
-### MW30P(Metaverse WEB 3.0 Blockchain Platform)은 게임 뿐만 아니라 복잡한구조의 다양한 비즈니스들을 블록체인과 편리하게 연결하여 효율적이고 미래지향적인 사업환경이 구성 가능하도록 지원하며 WEB 3.0의 통합 서비스 생태계를 제공합니다.
+#### MW30P(Metaverse WEB 3.0 Blockchain Platform)은 게임 뿐만 아니라 복잡한구조의 다양한 비즈니스들을 블록체인과 편리하게 연결하여 효율적이고 미래지향적인 사업환경이 구성 가능하도록 지원하며 WEB 3.0의 통합 서비스 생태계를 제공합니다.
 <img src="https://github.com/mw30p/verseB_pie_xtoearn_json_api-kr/blob/main/images/web30.jpg">
 <br>
 <br>
@@ -15,7 +15,7 @@ MW30P 내부 및 외부 연계, 서비스 관리, PiE (Profit in Everything) 서
 <br>
 <br>
 
-## MW30P X-To-Earn Interface
+#### MW30P X-To-Earn Interface
 API는 성능을 고려하여 Sync 타입과 Async 타입으로 분류됩니다. 제휴사는 각 API에 해당되는 기능을 적용하며 JSON, C/C++, JAVA등 다양한 개발언어를 지원합니다.
 
 X-To-Earn and Profit in Everything
