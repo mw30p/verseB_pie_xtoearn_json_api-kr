@@ -156,7 +156,7 @@ Exchange Rate Inquiry API는 환율 정보를 제공합니다(Item, Point, etc �
 <br>
 
 * Exchange Wireframe UI 
-<img src="https://github.com/mw30p/verseB_pie_xtoearn_json_api-kr/blob/main/images/01UI-01.Exchange-KR.jpg">
+<img src="https://github.com/mw30p/verseB_pie_xtoearn_json_api-kr/blob/main/images/02UI-01.Exchange-KR.jpg">
 <br>
 * Exchange Sequence
 <img src="https://github.com/mw30p/verseB_pie_xtoearn_json_api-kr/blob/main/images/02SEQ-01.Exchange-KR.jpg">
@@ -278,11 +278,11 @@ Exchange API, Passport API(비밀번호변경), Withdrawal Address API, API, Wit
 
 
 * Passport Wireframe UI (Password Registration)
-<img src="https://github.com/mw30p/verseB_pie_xtoearn_json_api-kr/blob/main/images/01UI-01.Passport-KR.jpg">
+<img src="https://github.com/mw30p/verseB_pie_xtoearn_json_api-kr/blob/main/images/03UI-01.Passport-KR.jpg">
 <br>
 
 * Passport Wireframe UI (Password Change)
-<img src="https://github.com/mw30p/verseB_pie_xtoearn_json_api-kr/blob/main/images/01UI-02.Passport-KR.jpg">
+<img src="https://github.com/mw30p/verseB_pie_xtoearn_json_api-kr/blob/main/images/03UI-02.Passport-KR.jpg">
 <br>
 
 * Passport Sequence (Password Registration)
@@ -380,11 +380,11 @@ Exchange API, Passport API(비밀번호변경), Withdrawal Address API, API, Wit
 <br>
 
 * Withdrawal Address Wireframe UI (Registration)
-<img src="https://github.com/mw30p/verseB_pie_xtoearn_json_api-kr/blob/main/images/01UI-01.Withdrawal_Address-KR.jpg">
+<img src="https://github.com/mw30p/verseB_pie_xtoearn_json_api-kr/blob/main/images/04UI-01.Withdrawal_Address-KR.jpg">
 <br>
 
 * Withdrawal Address Wireframe UI (Change)
-<img src="https://github.com/mw30p/verseB_pie_xtoearn_json_api-kr/blob/main/images/01UI-01.Withdrawal_Address-KR.jpg">
+<img src="https://github.com/mw30p/verseB_pie_xtoearn_json_api-kr/blob/main/images/04UI-01.Withdrawal_Address-KR.jpg">
 <br>
 
 * Withdrawal Address Sequence(Registration)
@@ -490,7 +490,7 @@ Withdrawal pre-trade API는 Withdrawal API를 호출하기전 반드시 실행�
 <br>
 
 * Withdrawal pre-trade Wireframe UI
-<img src="https://github.com/mw30p/verseB_pie_xtoearn_json_api-kr/blob/main/images/01UI-01.Withdrawal-KR.jpg">
+<img src="https://github.com/mw30p/verseB_pie_xtoearn_json_api-kr/blob/main/images/05UI-01.Withdrawal-KR.jpg">
 <br>
 
 * Withdrawal pre-trade Sequence
@@ -615,7 +615,7 @@ Withdrawal pre-trade API는 Withdrawal API를 호출하기전 반드시 실행�
 <br>
 
 * Withdrawal Wireframe UI
-<img src="https://github.com/mw30p/verseB_pie_xtoearn_json_api-kr/blob/main/images/01UI-01.Withdrawal-KR.jpg">
+<img src="https://github.com/mw30p/verseB_pie_xtoearn_json_api-kr/blob/main/images/05UI-01.Withdrawal-KR.jpg">
 <br>
 
 * Withdrawal Sequence
