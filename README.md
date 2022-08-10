@@ -18,7 +18,7 @@
 <br>
 <br>
 
-#### MW30P X-To-Earn Interface
+#### MW30P X-To-Earn Interface API
 API는 성능을 고려하여 Sync 타입과 Async 타입으로 분류됩니다. 제휴사는 각 API에 해당되는 기능을 적용하며 JSON, C/C++, JAVA등 다양한 개발언어를 지원합니다.
 
 X-To-Earn and Profit in Everything
