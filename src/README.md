@@ -384,7 +384,7 @@ Exchange API, Passport API(비밀번호변경), Withdrawal Address API, API, Wit
 <br>
 
 * Withdrawal Address Wireframe UI (Change)
-<img src="https://github.com/mw30p/verseB_pie_xtoearn_json_api-kr/blob/main/images/04UI-01.Withdrawal_Address-KR.jpg">
+<img src="https://github.com/mw30p/verseB_pie_xtoearn_json_api-kr/blob/main/images/04UI-02.Withdrawal_Address-KR.jpg">
 <br>
 
 * Withdrawal Address Sequence(Registration)
