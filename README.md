@@ -20,7 +20,10 @@
 
 #### MW30P X-To-Earn Interface API
 API는 성능을 고려하여 Sync 타입과 Async 타입으로 분류됩니다. 제휴사는 각 API에 해당되는 기능을 적용하며 JSON, C/C++, JAVA등 다양한 개발언어를 지원합니다.
-##### Go MW30P X-to-Earn API Guide(https://github.com/mw30p/verseB_pie_xtoearn_json_api-kr/tree/main/src).
+
+- JSON API SAMPLE : [JSON](https://github.com/mw30p/verseB_pie_xtoearn_json_api-kr/tree/main/src).
+- JAVA API SAMPLE : [JAVA](https://github.com/mw30p/verseB_pie_xtoearn_java_api-kr/tree/main/src/main/java/com/mw30p/p2e).
+- C/C++ API SAMPLE : [https://github.com/mw30p/verseB_pie_xtoearn_cpp_api-kr/tree/main/src).
 
 X-To-Earn and Profit in Everything
 * Play to Earn (P2E)
