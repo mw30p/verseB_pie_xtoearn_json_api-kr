@@ -48,6 +48,7 @@ Exchange Rate Inquiry API는 환율 정보를 제공합니다(Item, Point, etc �
 <br>
    
 * Exchange Rate Inquiry Sequence
+<img src="https://github.com/mw30p/verseB_pie_xtoearn_json_api-kr/blob/main/images/01UI-01.Exchange_Rate_Inquiry-KR.jpg">
 <img src="https://github.com/mw30p/verseB_pie_xtoearn_json_api-kr/blob/main/images/01SEQ-01.Exchange_Rate_Inquiry-KR.jpg">
 <br>
 
