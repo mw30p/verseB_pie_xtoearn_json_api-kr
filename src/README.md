@@ -47,8 +47,10 @@ Exchange Rate Inquiry API는 환율 정보를 제공합니다(Item, Point, etc �
 |<sub>sign</sub>|<sub>Y</sub>|<sub>64</sub>|<sub>서명검증 값</sub>|<sub>보안 서명 ("2. 보안적용 Guide" 참조)</sub>|<sub></sub>|
 <br>
    
-* Exchange Rate Inquiry Sequence
+* Exchange Rate Inquiry Wireframe UI 
 <img src="https://github.com/mw30p/verseB_pie_xtoearn_json_api-kr/blob/main/images/01UI-01.Exchange_Rate_Inquiry-KR.jpg">
+<br>
+* Exchange Rate Inquiry Sequence
 <img src="https://github.com/mw30p/verseB_pie_xtoearn_json_api-kr/blob/main/images/01SEQ-01.Exchange_Rate_Inquiry-KR.jpg">
 <br>
 
@@ -153,6 +155,9 @@ Exchange Rate Inquiry API는 환율 정보를 제공합니다(Item, Point, etc �
 |<sub>sign</sub>|<sub>Y</sub>|<sub>64</sub>|<sub>서명검증 값</sub>|<sub>보안 서명 ("2. 보안적용 Guide" 참조)</sub>|<sub></sub>|
 <br>
 
+* Exchange Wireframe UI 
+<img src="https://github.com/mw30p/verseB_pie_xtoearn_json_api-kr/blob/main/images/01UI-01.Exchange-KR.jpg">
+<br>
 * Exchange Sequence
 <img src="https://github.com/mw30p/verseB_pie_xtoearn_json_api-kr/blob/main/images/02SEQ-01.Exchange-KR.jpg">
 <br>
@@ -271,13 +276,20 @@ Exchange API, Passport API(비밀번호변경), Withdrawal Address API, API, Wit
 |Papers     |N|Y|N|Y|Y|Y|
 <br>
 
-* Passport Sequence(Password Registration)
 
+* Passport Wireframe UI (Password Registration)
+<img src="https://github.com/mw30p/verseB_pie_xtoearn_json_api-kr/blob/main/images/01UI-01.Passport-KR.jpg">
+<br>
+
+* Passport Wireframe UI (Password Change)
+<img src="https://github.com/mw30p/verseB_pie_xtoearn_json_api-kr/blob/main/images/01UI-02.Passport-KR.jpg">
+<br>
+
+* Passport Sequence (Password Registration)
 <img src="https://github.com/mw30p/verseB_pie_xtoearn_json_api-kr/blob/main/images/03SEQ-01.Passport-KR.jpg">
 <br>
 
-* Passport Sequence(Password Change)
-
+* Passport Sequence (Password Change)
 <img src="https://github.com/mw30p/verseB_pie_xtoearn_json_api-kr/blob/main/images/03SEQ-02.Passport-KR.jpg">
 <br>
 
@@ -365,6 +377,14 @@ Exchange API, Passport API(비밀번호변경), Withdrawal Address API, API, Wit
 |<sub>errorInformation.errCd</sub>|<sub>N</sub>|<sub>8</sub>|<sub>오류코드</sub>|<sub>성공일 경우 NULL, 오류일 경우 코드 확인</sub>|<sub>See Error Code</sub>|
 |<sub>errorInformation.reason</sub>|<sub>N</sub>|<sub>192</sub>|<sub>오류메시지</sub>|<sub>오류 발생시 해당 오류 메시지 </sub>|<sub>See Error Code</sub>|
 |<sub>sign</sub>|<sub>Y</sub>|<sub>64</sub>|<sub>서명검증 값</sub>|<sub>보안 서명 ("2. 보안적용 Guide" 참조)</sub>|<sub></sub>|
+<br>
+
+* Withdrawal Address Wireframe UI (Registration)
+<img src="https://github.com/mw30p/verseB_pie_xtoearn_json_api-kr/blob/main/images/01UI-01.Withdrawal_Address-KR.jpg">
+<br>
+
+* Withdrawal Address Wireframe UI (Change)
+<img src="https://github.com/mw30p/verseB_pie_xtoearn_json_api-kr/blob/main/images/01UI-01.Withdrawal_Address-KR.jpg">
 <br>
 
 * Withdrawal Address Sequence(Registration)
@@ -467,6 +487,10 @@ Withdrawal pre-trade API는 Withdrawal API를 호출하기전 반드시 실행�
 |<sub>errorInformation.errCd</sub>|<sub>N</sub>|<sub>8</sub>|<sub>오류코드</sub>|<sub>성공일 경우 NULL, 오류일 경우 코드 확인</sub>|<sub>See Error Code</sub>|
 |<sub>errorInformation.reason</sub>|<sub>N</sub>|<sub>192</sub>|<sub>오류메시지</sub>|<sub>오류 발생시 해당 오류 메시지 </sub>|<sub>See Error Code</sub>|
 |<sub>sign</sub>|<sub>Y</sub>|<sub>64</sub>|<sub>서명검증 값</sub>|<sub>보안 서명 ("2. 보안적용 Guide" 참조)</sub>|<sub></sub>|
+<br>
+
+* Withdrawal pre-trade Wireframe UI
+<img src="https://github.com/mw30p/verseB_pie_xtoearn_json_api-kr/blob/main/images/01UI-01.Withdrawal-KR.jpg">
 <br>
 
 * Withdrawal pre-trade Sequence
@@ -588,6 +612,10 @@ Withdrawal pre-trade API는 Withdrawal API를 호출하기전 반드시 실행�
 |<sub>errorInformation.errCd</sub>|<sub>N</sub>|<sub>8</sub>|<sub>오류코드</sub>|<sub>성공일 경우 NULL, 오류일 경우 코드 확인</sub>|<sub>See Error Code</sub>|
 |<sub>errorInformation.reason</sub>|<sub>N</sub>|<sub>192</sub>|<sub>오류메시지</sub>|<sub>오류 발생시 해당 오류 메시지 </sub>|<sub>See Error Code</sub>|
 |<sub>sign</sub>|<sub>Y</sub>|<sub>64</sub>|<sub>서명검증 값</sub>|<sub>보안 서명 ("2. 보안적용 Guide" 참조)</sub>|<sub></sub>|
+<br>
+
+* Withdrawal Wireframe UI
+<img src="https://github.com/mw30p/verseB_pie_xtoearn_json_api-kr/blob/main/images/01UI-01.Withdrawal-KR.jpg">
 <br>
 
 * Withdrawal Sequence
