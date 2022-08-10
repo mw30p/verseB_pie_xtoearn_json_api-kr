@@ -5,7 +5,7 @@
 
 ## 1. Exchange Rate Inquiry API (Partners → MW30P)
 
-Exchange Rate Inquiry API는 환율 정보를 제공합니다(Item, Point, etc  PlayToken, PlayToken  Item, Point, etc). 이 API를 통해 Exchange API에 환율정보를 적용해야 합니다.
+Exchange Rate Inquiry API는 환율 정보를 제공합니다(Item/Point/etc to PlayToken, PlayToken to Item/Point/etc). 이 API를 통해 Exchange API에 환율정보를 적용해야 합니다.
 
 ※ Exchange Rate Inquiry API의 응답결과인 환율은 별도 ADMIN거래로  등록이 필요합니다. 환율정보가 사전에 등록이 되어 있지 않으면 오류를 반환합니다.
 
